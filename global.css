@@ -1,0 +1,15 @@
+main{
+    display: grid;
+    grid-template: 1fr 1fr 1fr/ 1fr 1fr 1fr;
+    width: 75%;
+    justify-items: center;
+    margin: auto;
+}
+main>div{
+    text-align: center;
+    width: 100%;
+}
+main>div:hover{
+
+    background-color: rgba(182, 177, 177, 0.363);
+}
