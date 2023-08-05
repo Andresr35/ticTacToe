@@ -13,10 +13,10 @@ main {
   border-radius: 10px;
   display: grid;
   grid-template: 1fr 1fr 1fr/ 1fr 1fr 1fr;
-  width: 60vw;
+  width: 30vw;
   justify-items: center;
   margin: auto;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 main > div {
     display: flex;
@@ -24,8 +24,8 @@ main > div {
   justify-content: center;
   align-items: center;
 margin: auto;
-  width: 20vw;
-  height: 20vw;
+  width: 10vw;
+  height: 10vw;
 font-size: 20pt;
 font-weight: 800;
   background-color: rgb(85, 133, 85);
